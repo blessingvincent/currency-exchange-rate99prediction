@@ -1,6 +1,4 @@
 import warnings
-
-print(tf.keras._version_)
 print(keras._version_)
 import numpy as np
 from tensorflow.keras.layers import Dense
