@@ -1,5 +1,4 @@
 import warnings
-print(keras._version_)
 import numpy as np
 from tensorflow.keras.layers import Dense
 from keras.models import Sequential
