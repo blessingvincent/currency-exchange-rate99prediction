@@ -1,5 +1,5 @@
 import warnings
-from matplotlib import pyplot
+from matplotlib import pyplot as plt
 from pandas import read_csv
 from sklearn.metrics import mean_squared_error
 from statsmodels.tsa.arima_model import ARIMA
