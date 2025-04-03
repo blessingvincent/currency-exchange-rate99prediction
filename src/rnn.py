@@ -1,7 +1,7 @@
 import warnings
 import keras 
 print(keras._version)
-import numpy
+import numpy as np
 from tensorflow.keras.layers import Dense
 from keras.models import Sequential
 from matplotlib import pyplot
