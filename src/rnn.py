@@ -1,5 +1,5 @@
 import warnings
-import tensorflow as tf
+
 print(tf.keras._version_)
 print(keras._version_)
 import numpy as np
