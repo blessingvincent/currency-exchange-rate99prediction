@@ -1,7 +1,7 @@
 import warnings
 
 import numpy
-from keras.layers import Dense
+from tensorflow.keras.layers import Dense
 from keras.models import Sequential
 from matplotlib import pyplot
 from pandas import read_csv
